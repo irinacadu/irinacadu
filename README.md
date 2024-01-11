@@ -12,6 +12,11 @@
 ## Get in touch
 [![@irinacadu](https://img.icons8.com/fluency/48/000000/linkedin.png )]([https://www.linkedin.com/in/anushkawijegoonawardana97/](https://www.linkedin.com/in/irina-casas-duarte)) [![@irinacadu@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@irinacadu@gmail.com")](irinacadu@gmail.com)
 
+
+----------------------------------------------------------------------
+Credit: [irinacadu](https://github.com/irinacadu)
+
+Last Edited on: 12/01/2023
 <!--
 **irinacadu/irinacadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
