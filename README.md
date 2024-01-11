@@ -1,6 +1,4 @@
-<!--<h1 align="center">Hola! soy <a href = "https://irinacasasduarte.web.app/">Irina C.</a> 👋 </h1>-->
 
-<!--![Banner](/Banner.png)(https://irinacasasduarte.web.app/)-->
 [![Banner](/Banner.png)](https://irinacasasduarte.web.app/) 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chivo+Mono&color=f8005b&size=20&lines=I'm+Irina+C!;A+fighter+mom;And+hardworker;I+changed+my+life;To+become+a;WEB+DEVELOPER)](https://git.io/typing-svg)
