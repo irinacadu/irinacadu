@@ -1,5 +1,6 @@
 Hola! soy [Irina C.](https://irinacasasduarte.web.app/) 👋
 
+[Banner principal]([https://picsum.photos/800/600](https://github.com/irinacadu/irinacadu/blob/main/Banner%20(1).png))
 <!--
 **irinacadu/irinacadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
