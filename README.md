@@ -9,8 +9,7 @@
 ![irinacadu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irinacadu&theme=tokyonight&layout=compact)
 
 
-## Get in touch
-[![@irinacadu](https://img.icons8.com/fluency/48/000000/linkedin.png )]([https://www.linkedin.com/in/anushkawijegoonawardana97/](https://www.linkedin.com/in/irina-casas-duarte)) [![@irinacadu@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@irinacadu@gmail.com")](irinacadu@gmail.com)
+
 
 
 ----------------------------------------------------------------------
