@@ -1,7 +1,7 @@
 
 [![Banner](/Banner.png)](https://irinacasasduarte.web.app/) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chivo+Mono&color=f8005b&size=20&lines=I'm+Irina+C!;Hardworker;Researcher;Fighter;Teamworker;I+changed+my+life;To+become+a;WEB+DEVELOPER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chivo+Mono&color=f8005b&size=20&lines=I'm+Irina+C,;and+I+changed+my+whole+life;To+become;a+WEB+DEVELOPER)](https://git.io/typing-svg)
 
 ## My statistics
 <!--![irinacadu's github stats](https://github-readme-stats.vercel.app/api?username=irinacadu&show_icons=true&theme=tokyonight)-->
