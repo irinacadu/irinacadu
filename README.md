@@ -3,14 +3,20 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chivo+Mono&color=f8005b&size=20&lines=I'm+Irina+C,;and+I+changed+my+whole+life;to+become;a+WEB+DEVELOPER)](https://git.io/typing-svg)
 
+## A bit of me
+
+- 🏦 I'm currently working as a software developer
+- 🤔 I use daily ```.java```, ```.sql``` ,  ```.ts``` 
+- 🌱 I’m currently improving my technical skills (and my own web page [CLICK HERE!](https://irinacasasduarte.web.app/))
+- 💬 Talk to me about music, cinema and how can I do it better.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Una catalana en Murcia.
+- 👩‍👧 Being a mother has taught me resilience and infinite patience and above all to understand that things work out much better with love.
+
 ## My statistics
 <!--![irinacadu's github stats](https://github-readme-stats.vercel.app/api?username=irinacadu&show_icons=true&theme=tokyonight)-->
 ![irinacadu's streak](https://github-readme-streak-stats.herokuapp.com/?user=irinacadu&theme=tokyonight)
 ![irinacadu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irinacadu&theme=tokyonight&layout=compact)
-
-
-
-
 
 ----------------------------------------------------------------------
 Credit: [irinacadu](https://irinacasasduarte.web.app/)
