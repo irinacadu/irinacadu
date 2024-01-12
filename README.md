@@ -15,7 +15,7 @@
 
 ## My statistics
 <!--![irinacadu's github stats](https://github-readme-stats.vercel.app/api?username=irinacadu&show_icons=true&theme=tokyonight)-->
-![irinacadu's streak](https://github-readme-streak-stats.herokuapp.com/?user=irinacadu&theme=tokyonight)
+<!--![irinacadu's streak](https://github-readme-streak-stats.herokuapp.com/?user=irinacadu&theme=tokyonight)-->
 ![irinacadu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irinacadu&theme=tokyonight&layout=compact)
 
 ----------------------------------------------------------------------
