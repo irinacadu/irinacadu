@@ -7,12 +7,13 @@
 
 - 🏦 I'm currently working as a software developer
 - 🤔 I use daily ```.java```, ```.sql``` ,  ```.ts```  , ```.selenium``` , ```.springBoot``` , ```.angular```
--  :book: I'm learning ```SOLID``` , ```clean code``` ,  ```.JUnit``` , ```.mockito``` , ```.springWebflux``` , ```.vue.js``` ```.cypress``` ...
+- :book: I'm learning ```SOLID``` , ```clean code``` ,  ```.JUnit``` , ```.mockito``` , ```.springWebflux``` , ```.vue.js``` ```.cypress``` ...
 - 🌱 I’m currently improving my technical skills (and my own web page [CLICK HERE!](https://irinacasasduarte.web.app/))
+- ❤️ Good worker under passion
 - 💬 Talk to me about music, cinema and how can I code better.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Una catalana en Murcia.
-- 👩‍👧 Being a mother has taught me resilience and infinite patience and above all to understand that things work out much better with love.
+- 👩‍👧  Being a mother has taught me resilience and infinite patience and above all to understand that things work out much better with love.
   
 ## Languages and Tools
 <div align="center">
