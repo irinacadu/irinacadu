@@ -1,5 +1,5 @@
 
-[![Banner](/newBanner2.png)](https://irinacasasduarte.web.app/) 
+[![Banner](/newBanner3.png)](https://irinacasasduarte.web.app/) 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chivo+Mono&color=f8005b&size=20&lines=I'm+Irina+C,;and+I+changed+my+whole+life;to+become;a+WEB+DEVELOPER)](https://git.io/typing-svg)
 
