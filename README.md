@@ -6,8 +6,8 @@
 ## A bit of me
 
 - 🏦 I'm currently working as a software developer
-- 🤔 I use daily ```.java```, ```.sql``` ,  ```.ts```  , ```.selenium``` , ```.springBoot``` , ```.angular```
-- :book: I'm learning ```SOLID``` , ```clean code``` ,  ```.JUnit``` , ```.mockito``` , ```.springWebflux``` , ```.vue.js``` ```.cypress``` ...
+- 🤔 I use daily ```.java```, ```javaScript``` , ```Figma``` ,  ```.sql``` ,  ```.ts```  , ```.cucumber``` , ```.springBoot``` , ```.angular```
+- :book: I'm learning  ```.net``` , ```SOLID``` , ```clean code``` ,  ```.JUnit``` , ```.mockito``` , ```.springWebflux``` , ```.vue.js``` ```.cypress``` ...
 - 🌱 I’m currently improving my technical skills (and my own web page [CLICK HERE!](https://irinacasasduarte.web.app/))
 - ❤️ Good worker under passion
 - 💬 Talk to me about music, cinema and how can I code better.
